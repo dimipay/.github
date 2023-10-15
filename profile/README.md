@@ -18,6 +18,10 @@
 
 - 천재 개발자들이 대학을 안 가기 시작했다 - [중퇴영훈이](https://www.youtube.com/watch?v=zYBYLbolEgI)
 
+### News
+
+- 한 학생의 제안이 만든 위대한 힘, ‘디미고 사회적협동조합’ - [평생학습e음](https://e-eum.net/focus/?idx=13553300&bmode=view)
+
 ## 📜 Presentations
 
 - [서강대 컴공학회 하계발표회 - 디미페이](https://github.com/dimipay/.github/tree/main/presentations/%EC%84%9C%EA%B0%95%EB%8C%80%20%EC%BB%B4%EA%B3%B5%ED%95%99%ED%9A%8C%20%ED%95%98%EA%B3%84%EB%B0%9C%ED%91%9C%ED%9A%8C%20-%20%EB%94%94%EB%AF%B8%ED%8E%98%EC%9D%B4), by @rycont
