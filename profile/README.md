@@ -14,7 +14,7 @@
 - 디미페이가 뭔데? - [Tilnote](https://tilnote.io/pages/64947f56d15b21c6b91c9e09), by @rycont
 - 고등학생이 매점에서 간편결제를 쓰고 싶어서 직접 개발한 이야기 - [GeekNews](https://news.hada.io/topic?id=10280), by @rycont
 
-### Youtube
+### YouTube
 
 - 천재 개발자들이 대학을 안 가기 시작했다 - [중퇴영훈이](https://www.youtube.com/watch?v=zYBYLbolEgI)
 
