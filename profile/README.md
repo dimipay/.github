@@ -4,6 +4,9 @@
     <img alt="dimipay logo" src="/profile/assets/logo-main-1.svg" height="50px">
   </picture>
   <p align="center"><b><i>Dimipay Code For ALL ✨</i></b></p>
+  <div align="center">
+    <a href="https://play.google.com/store/apps/details/%EB%94%94%EB%AF%B8%ED%8E%98%EC%9D%B4?id=com.develop.dimipay">Google Play</a>&#9;&#149;&#9;<a href="https://apps.apple.com/ph/app/%EB%94%94%EB%AF%B8%ED%8E%98%EC%9D%B4/id1642292289">App Store</a>
+  </div>
 </p>
 
 ## 🎬 Dimipay on Media
