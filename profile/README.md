@@ -30,4 +30,4 @@
 ## 📜 Presentations
 
 - [서강대 컴공학회 하계발표회 - 디미페이](https://github.com/dimipay/.github/tree/main/presentations/%EC%84%9C%EA%B0%95%EB%8C%80%20%EC%BB%B4%EA%B3%B5%ED%95%99%ED%9A%8C%20%ED%95%98%EA%B3%84%EB%B0%9C%ED%91%9C%ED%9A%8C%20-%20%EB%94%94%EB%AF%B8%ED%8E%98%EC%9D%B4), by @rycont
-- [코드포코리아 시빅해킹 컨퍼런스 - "간편결제시스템으로 매점을 혁신한 고등학생들의 이야기"](https://github.com/dimipay/.github/blob/main/presentations/코드포코리아%20시빅해킹%20컨퍼런스%20-%20간편결제시스템으로%20매점을%20혁신한%20고등학생들의%20이야기/간편결제시스템으로%20매점을%20혁신한%20고등학생들의%20이야기.pdf), by @fxxntrbl
+- [코드포코리아 시빅해킹 컨퍼런스 - "간편결제시스템으로 매점을 혁신한 고등학생들의 이야기"](https://github.com/dimipay/.github/blob/main/presentations/코포코%20시빅해킹%20컨퍼런스/간편결제시스템으로%20매점을%20혁신한%20고등학생들의%20이야기.pdf), by @fxxntrbl
