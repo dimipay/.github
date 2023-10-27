@@ -20,6 +20,7 @@
 ### YouTube
 
 - 옳게 된 디미페이 - [@rycont](https://youtube.com/shorts/9cmtrsTB9UM?si=4-E8YrFJ8OSNYyIJ)
+- FaceSign 결제 시연 영상 - [@doch2](https://youtu.be/3OE62cBS8rs?si=20ldYyG2Fl0lnRoj)
 - 천재 개발자들이 대학을 안 가기 시작했다 - [중퇴영훈이](https://www.youtube.com/watch?v=zYBYLbolEgI)
 
 ### News
