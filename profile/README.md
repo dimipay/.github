@@ -13,6 +13,7 @@
 
 ### Director's cut
 
+- [백엔드 개발자 블로그(디미페이)](https://blog.javien.dev/category/%EB%94%94%EB%AF%B8%ED%8E%98%EC%9D%B4) by 재빈
 - [전부 갈아 엎은 디미페이 v2](https://posty.pe/a1b77a)
 - [Director's cut](https://github.com/orgs/dimipay/discussions/1) by @rycont
 - [디미페이가 뭔데?](https://tilnote.io/pages/64947f56d15b21c6b91c9e09) by @rycont
