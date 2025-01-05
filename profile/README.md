@@ -21,6 +21,7 @@
 
 ### YouTube
 
+- [이젠 인터넷 없어도 결제](https://youtube.com/shorts/934jNRXSn_8) `v2` 
 - [매점에서 QR 코드로 결제하는 고등학교](https://www.youtube.com/shorts/gUd2R12QW1Y) `v2`
 - [디미페이 v2 페이스사인 결제 시연](https://www.youtube.com/shorts/FprMNDA_71Y) `v2`
 - [FaceSign 결제 시연 영상](https://youtu.be/3OE62cBS8rs?si=20ldYyG2Fl0lnRoj) `v1`
@@ -38,5 +39,5 @@
 
 ## See us here!
 
-- [LinkedIn](https://www.linkedin.com/company/100111619)
+- [LinkedIn](https://www.linkedin.com/company/dimipay)
 - [Postype](https://www.postype.com/@dimipay)
