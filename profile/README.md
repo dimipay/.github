@@ -26,7 +26,7 @@
 - [디미페이 v2 페이스사인 결제 시연](https://www.youtube.com/shorts/FprMNDA_71Y) `v2`
 - [FaceSign 결제 시연 영상](https://youtu.be/3OE62cBS8rs?si=20ldYyG2Fl0lnRoj) `v1`
 - [옳게 된 디미페이](https://youtube.com/shorts/9cmtrsTB9UM?si=4-E8YrFJ8OSNYyIJ) `prototype`
-- [천재 개발자들이 대학을 안 가기 시작했다](https://www.youtube.com/watch?v=zYBYLbolEgI) (중퇴영훈이)
+- [천재 개발자들이 대학을 안 가기 시작했다](https://www.youtube.com/watch?v=zYBYLbolEgI) (코드잇 온에어)
 
 ### News
 
